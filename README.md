@@ -19,5 +19,6 @@ include 'footer.php;
 ?>
 ```
 
-## Info
-You don't need to credit me, as it's not necessary.
+## Credits
+* [Eqilux](https://github.com/Eqilux) for creating the Simple PHP Header + Footer code.
+* [Bootstrap 4](https://getbootstrap.com) for their awesome framework.
